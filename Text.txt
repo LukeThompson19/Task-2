@@ -1,0 +1,1 @@
+‘I acknowledge that this work is my own, the code was built piece by piece. I used my own strategies. I used ChatGPT 5.1 (Open AI, https://chatgpt.com/) for python and bash syntax and debug piece by piece and debug once a files were finished.’ 
